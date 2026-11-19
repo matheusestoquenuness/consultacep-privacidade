@@ -1,3 +1,4 @@
-# Consulta CEP · Política de Privacidade
+# Consulta CEP · Política de Privacidade e Termos de Uso
 
-Página pública: https://matheusestoquenuness.github.io/consultacep-privacidade/
+- Política de Privacidade: https://matheusestoquenuness.github.io/consultacep-privacidade/
+- Termos de Uso: https://matheusestoquenuness.github.io/consultacep-privacidade/termos/
